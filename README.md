@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @corycarte
 <!-- - 👀 I’m interested in ... -->
 - 🌱 I’m currently learning iOS Development with the London App Brewery's iOS Development bootcamp through Udemy
+- 🌴 I currently work as a .NET developer
 <!-- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
