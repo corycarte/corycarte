@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @corycarte
-<!-- - 👀 I’m interested in ... -->
+- 👀 I’m interested in Full Stack Development, Data Analytics, and Mobile Development
 - 🌱 I’m currently learning iOS Development with the London App Brewery's iOS Development bootcamp through Udemy
 - 🌴 I currently work as a .NET developer
 <!-- 
